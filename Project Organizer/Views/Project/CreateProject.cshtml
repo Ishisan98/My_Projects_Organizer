@@ -1,0 +1,32 @@
+﻿@model Project_Organizer.Models.Project
+@{
+    Layout = null;
+}
+<head>
+
+</head>
+
+<body>
+    <h1>Create New Project</h1>
+
+    <form asp-action="CreateProject" method="post">
+
+        <label>
+            Project Id
+            <input type="text" asp-for="Project_Id"/>
+        </label>
+
+        <lable>
+            Project Name
+            <input type="text" asp-for="Project_Name"/>
+        </lable>
+
+        <lable>
+            Description
+            <input type="text" asp-for="Description" />
+        </lable>
+
+        <button type="submit">Create</button>
+        
+    </form>
+</body>

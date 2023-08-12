@@ -1,0 +1,31 @@
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\appsettings.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Project Organizer.staticwebassets.runtime.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Project Organizer.exe
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Project Organizer.deps.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Project Organizer.runtimeconfig.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Project Organizer.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Project Organizer.pdb
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.csproj.AssemblyReference.cache
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.AssemblyInfoInputs.cache
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.AssemblyInfo.cs
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.RazorAssemblyInfo.cache
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.RazorAssemblyInfo.cs
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets\msbuild.Project Organizer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets\msbuild.build.Project Organizer.props
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project Organizer.props
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project Organizer.props
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\scopedcss\bundle\Project Organizer.styles.css
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\scopedcss\projectbundle\Project Organizer.bundle.scp.css
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\refint\Project Organizer.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.pdb
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.genruntimeconfig.cache
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\ref\Project Organizer.dll
