@@ -1,4 +1,4 @@
-﻿namespace Project_Organizer.Models
+﻿namespace Project_Organizer.Models.Project
 {
     public class Project
     {
@@ -8,8 +8,8 @@
 
         public string? Description { get; set; }
 
-        public DateTime? CreatedDate { get; set; }
+        public DateTime? Created_Date { get; set; }
 
-        public bool ProjectStatus { get; set; }
+        public bool Project_Status { get; set; }
     }
 }

@@ -1,15 +1,55 @@
-﻿@{
+﻿@model Project_Organizer.Models.Project.Project;
+@{
     Layout = null;
 }
 
-<head>
+<!DOCTYPE html>
+<html>
 
-</head>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    </head>
 
-<body>
-    <h1>Dashboard</h1>  
-    
-    <a href="https://localhost:7085/project/createproject">Create New Project</a>
-</body>
+    <body>
+
+        <div class="container-fluid">
+
+            <h1>Dashboard</h1>
+
+            <a href="https://localhost:7085/project/createproject">Create New Project</a>
+            <br/><br/>
+
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Project Name</th>
+                        <th>Status</th>
+                        <th>Created Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @if (ViewBag.ProjectsList != null)
+                {
+                    @foreach (var project in ViewBag.ProjectsList)
+                    {
+                        <tr>
+                            <td>@project.Project_Id</td>
+                            <td>@project.Project_Name</td>
+                            <td>@project.Project_Status</td>
+                            <td>@project.Created_Date</td>
+                        </tr>
+                    }
+                }
+                </tbody>
+            </table>
+
+        </div>
+  
+    </body>
+
+</html>
+
 
 
