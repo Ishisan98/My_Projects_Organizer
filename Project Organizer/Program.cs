@@ -1,7 +1,13 @@
+using Project_Organizer.Interfaces;
+using Project_Organizer.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IProject, ProjectRepository>();
+
+
 
 var app = builder.Build();
 

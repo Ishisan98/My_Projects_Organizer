@@ -29,3 +29,11 @@ C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organi
 C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.pdb
 C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.genruntimeconfig.cache
 C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\ref\Project Organizer.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\Dapper.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishisan\Desktop\Self-Study\ASP.NET Core\ASP.NET Projects\Project Organizer\Project Organizer\obj\Debug\net7.0\Project Organizer.csproj.CopyComplete

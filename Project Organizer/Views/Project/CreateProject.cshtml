@@ -9,6 +9,8 @@
     <head>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    
+        <title>Create Project</title>
     </head>
 
     <body>
@@ -16,13 +18,9 @@
         <div class="container-fluid">
 
             <h1>Create New Project</h1>
+            </br></br>
 
             <form asp-action="CreateProject" method="post">
-
-                <label>
-                    Project Id
-                    <input type="text" asp-for="Project_Id" />
-                </label>
 
                 <lable>
                     Project Name
@@ -34,7 +32,7 @@
                     <input type="text" asp-for="Description" />
                 </lable>
 
-                <button type="submit">Create</button>
+                <button class="btn btn-secondary" type="submit">Create</button>
 
             </form>
 
