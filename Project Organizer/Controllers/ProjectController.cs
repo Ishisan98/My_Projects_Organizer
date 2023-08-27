@@ -46,7 +46,7 @@ namespace Project_Organizer.Controllers
 
             newProject.Project_Name = projectForm.Project_Name;
             newProject.Description = projectForm.Description;
-            newProject.Created_Date = DateTime.Now;
+            newProject.Created_Date = projectForm.Created_Date;
             newProject.Project_Status = true;
 
             _projectInterface.CreateNewProject(connectionString, newProject);

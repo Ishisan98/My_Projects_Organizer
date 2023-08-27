@@ -22,15 +22,25 @@
 
             <form asp-action="CreateProject" method="post">
 
-                <lable>
-                    Project Name
-                    <input type="text" asp-for="Project_Name" />
-                </lable>
+                <div class="card" style="width: 45rem;">
+                    <div class="card-body">
+                        <div class="row" style="height:2rem; padding-bottom:3rem;">
+                            <div class="col"> <b class="mb-0">Project Name</b> </div>
+                            <div class="col-sm-8"> <input id="projectName" type="text" asp-for="Project_Name" style="width:20rem;" /> </div>
+                        </div>
 
-                <lable>
-                    Description
-                    <input type="text" asp-for="Description" />
-                </lable>
+                        <div class="row" style="height:2rem; padding-bottom:3rem;">
+                            <div class="col"> <b class="mb-0">Created Date</b> </div>
+                            <div class="col-sm-8"> <input id="projectCreatedDate" type="date" asp-for="Created_Date" style="width:20rem;" /> </div>
+                        </div>
+
+                        <div class="row" style="height:2rem; padding-bottom:3rem;">
+                            <div class="col"> <b class="mb-0">Description</b> </div>
+                            <div class="col-sm-8"> <input id="projectDescription" type="text" asp-for="Description" style="width:20rem;" /> </div>
+                        </div>
+                    </div>
+                </div>
+                </br>
 
                 <button class="btn btn-secondary" type="submit">Create</button>
 
