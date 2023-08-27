@@ -112,6 +112,31 @@ namespace Project_Organizer.Repositories
 
             }
         }
+
+
+        public bool DeleteProjectById (string connectionString, int id) 
+        {
+            using (var connection = new SqlConnection(connectionString))
+            {
+                var query = "DELETE FROM Projects WHERE Project_Id = @ProjectId";
+                var parameters = new
+                {
+                    ProjectId = id
+                };
+
+                try
+                {
+                    connection.Execute(query, parameters);
+                    return true;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                    return false;
+                }
+
+            }
+        }
     }
 
 

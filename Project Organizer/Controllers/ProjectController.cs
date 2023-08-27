@@ -89,5 +89,14 @@ namespace Project_Organizer.Controllers
 
             return RedirectToAction("GetProjectByProjectId", "Project", new { id = projectForm.Project_Id });
         }
+
+
+
+        // Delete Project //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        public IActionResult DeleteProjectById (int id)
+        {
+            bool check = _projectInterface.DeleteProjectById(connectionString,id);
+            return RedirectToAction("Dashboard", "Project");
+        }
     }
 }

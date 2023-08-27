@@ -8,5 +8,6 @@ namespace Project_Organizer.Interfaces
         public List<Project> GetAllProjects (string connectionString);
         public Project GetProjectById(string connectionString, int id);
         public bool UpdateProject(string connectionString, Project project);
+        public bool DeleteProjectById(string connectionString, int id);
     }
 }
