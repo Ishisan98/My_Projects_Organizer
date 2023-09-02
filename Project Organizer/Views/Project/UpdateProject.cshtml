@@ -18,6 +18,8 @@
     <div class="container-fluid">
 
         <h1>Project Details</h1>
+
+        <a href="/project/dashboard">Return to Dashboard</a>
         </br></br>
 
         @if (ViewBag.Project != null)
@@ -65,7 +67,7 @@
                         <div class="row" style="height:2rem; padding-bottom:3rem;">
                             <div class="col"> <b class="mb-0">Manage:</b> </div>
                             <div class="col-sm-8">
-                                <a href="#" class="btn btn-secondary">Models</a>
+                                <a href="model/viewModels/@ViewBag.Project.Project_Id" class="btn btn-secondary">Models</a>
                                 <a href="#" class="btn btn-secondary">Views</a>
                                 <a href="#" class="btn btn-secondary">Controllers</a>
                                 <a href="#" class="btn btn-secondary">Repositories</a>

@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="SQL\1.0\1. Table Create\" />
+    <Folder Include="SQL\1.0\2. Stored Procedures\" />
   </ItemGroup>
 
 </Project>
