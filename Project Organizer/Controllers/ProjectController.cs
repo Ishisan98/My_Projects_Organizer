@@ -7,7 +7,7 @@ namespace Project_Organizer.Controllers
 {
     public class ProjectController : Controller
     {
-        public static List<Project> projects = new List<Project> ();
+        //public static List<Project> projects = new List<Project> ();
 
         private readonly IProject _projectInterface;
         private readonly IConfiguration _configuration;
@@ -49,7 +49,7 @@ namespace Project_Organizer.Controllers
             newProject.Created_Date = projectForm.Created_Date;
             newProject.Project_Status = true;
 
-            _projectInterface.CreateNewProject(connectionString, newProject);
+            bool check = _projectInterface.CreateNewProject(connectionString, newProject);
 
             return RedirectToAction("Dashboard","Project");
         }

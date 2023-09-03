@@ -1,4 +1,4 @@
-﻿namespace Project_Organizer.Models
+﻿namespace Project_Organizer.Models.Project
 {
     public class Model
     {
@@ -6,7 +6,7 @@
 
         public string Model_Name { get; set; }
 
-        public string? Description { get; set;}
+        public string? Description { get; set; }
 
         public int Project_Id { get; set; }
     }
